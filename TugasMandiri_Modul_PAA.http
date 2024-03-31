@@ -1,0 +1,6 @@
+@TugasMandiri_Modul_PAA_HostAddress = http://localhost:5156
+
+GET {{TugasMandiri_Modul_PAA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

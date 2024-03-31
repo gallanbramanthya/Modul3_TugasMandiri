@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|c:\\users\\galla\\source\\repos\\tugasmandiri_modul_paa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|c:\\users\\galla\\source\\repos\\tugasmandiri_modul_paa\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|c:\\users\\galla\\source\\repos\\tugasmandiri_modul_paa\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|c:\\users\\galla\\source\\repos\\tugasmandiri_modul_paa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|c:\\users\\galla\\source\\repos\\tugasmandiri_modul_paa\\models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|solutionrelative:models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|c:\\users\\galla\\source\\repos\\tugasmandiri_modul_paa\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|c:\\users\\galla\\source\\repos\\tugasmandiri_modul_paa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|c:\\users\\galla\\source\\repos\\tugasmandiri_modul_paa\\models\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|solutionrelative:models\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|c:\\users\\galla\\source\\repos\\tugasmandiri_modul_paa\\helpers\\sqldbhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F67B81-0279-422F-8079-4C5743C436ED}|TugasMandiri_Modul_PAA.csproj|solutionrelative:helpers\\sqldbhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T15:29:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:28:13.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonContext.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Models\\PersonContext.cs",
+              "RelativeDocumentMoniker": "Models\\PersonContext.cs",
+              "ToolTip": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Models\\PersonContext.cs",
+              "RelativeToolTip": "Models\\PersonContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:19:48.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:19:23.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginContext.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Models\\LoginContext.cs",
+              "RelativeDocumentMoniker": "Models\\LoginContext.cs",
+              "ToolTip": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Models\\LoginContext.cs",
+              "RelativeToolTip": "Models\\LoginContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:19:03.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:18:45.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sqlDBHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Helpers\\sqlDBHelpers.cs",
+              "RelativeDocumentMoniker": "Helpers\\sqlDBHelpers.cs",
+              "ToolTip": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Helpers\\sqlDBHelpers.cs",
+              "RelativeToolTip": "Helpers\\sqlDBHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:18:32.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:18:10.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\galla\\source\\repos\\TugasMandiri_Modul_PAA\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:17:54.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
